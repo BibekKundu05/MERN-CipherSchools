@@ -19,7 +19,7 @@ Blogging App is a platform where users can share their knowledge by writing and 
 ##### Clone the repository:
 bash
 Copy code
-git clone [https://github.com/BibekKundu05/blogging-app.git](https://github.com/BibekKundu05/blogging-app.git)
+git clone [https://github.com/BibekKundu05/MERN-CipherSchool.git](https://github.com/BibekKundu05/MERN-CipherSchool)
 cd blogging-app
 ##### Install dependencies:
 bash
